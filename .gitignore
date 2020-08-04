@@ -1,0 +1,7 @@
+node_modules
+report.*.json
+
+.idea
+.vscode
+.DS_Store
+yarn-error.log
